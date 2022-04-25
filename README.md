@@ -2,4 +2,4 @@
 
 ## Beispiel für das Einbinden von Bildern
 
-[Kirche](images/Kirche.jpg)
+![Kirche](images/Kirche.jpg)
