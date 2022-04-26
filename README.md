@@ -45,7 +45,8 @@ Die Anwendung läuft in Echtzeit und kann mittels zweier Touchscreens interaktiv
 ![Themen](images/Themen.jpg)
 Thematisch und stilistisch wird sich an der reichhaltigen Bilderwelt Pieter Brueghels des Älteren orientiert. Aber auch dessen geistiger Vorfahre Hieronymus Bosch beeinflusst diese Inszenierung stark.
 
-(BILD)
+
+![Historische Vorlagen](images/Historische_Vorlagen.jpg)
 Objekte und Figuren aus deren Werken finden sich an vielen Stellen der Anwendung.
 
 ### Projektentwicklung 
