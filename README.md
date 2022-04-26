@@ -34,7 +34,7 @@ Die Wissensvermittlung durch 3D-Animationen in Verbindung mit interaktiven Echtz
 
 
 
-(BILD)
+![Tischaufbau](images/TIschaufbau.jpg)
 Die Besucher haben die Möglichkeit von zwei Seiten aus die Szene zu entdecken.
 Die Anwendung läuft in Echtzeit und kann mittels zweier Touchscreens interaktiv beeinflusst werden.
 
@@ -68,5 +68,7 @@ zur Erstellung des Contents verwendet:
 
 
 ## Beispiel für das Einbinden von Bildern
+
+
 
 ![Kirche](images/Kirche.jpg)
