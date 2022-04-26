@@ -67,9 +67,93 @@ Hilfreiche Internetforen während der Realisierung:
 Neben der Unreal Engine 5 als Zielanwendung wurden folgende Programme/Plugins
 zur Erstellung des Contents verwendet:
 
+[Cinema 4D](https://www.maxon.net/de/ "Cinema 4D")
+[Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html "Substance Painter")
+[RizomUV](https://www.rizom-lab.com "RizomUV")
+[ZBrush](https://pixologic.com/ "ZBrush")
+[Stack N Pack](https://phillipjenne.gumroad.com/l/StackNPack "Stack N Pack")
+[Character Creator 3](https://www.reallusion.com/de/character-creator/?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWPX4kH7VNDhAMx83y3D23cRHeMSk9rVOC55vVSV3JCe_956vhRGwLRoCqQgQAvD_BwE "Character Creator 3")
+[Mixamo](https://www.mixamo.com/#/ "Mixamo")
 
-## Beispiel für das Einbinden von Bildern
+### Skizzen/Entwürfe
+
+Bild
+Bild
+Anhand erster Scribbels wurde grob die Themenauswahl festgelegt. Die grundlegenden Themen dieser Inszenierung sind das Schlemmen, die Wollust, der mittelalterliche Narr.
+
+
+### 3D Content-Erstellung
+
+Sämtliche statische Modelle entstanden in Cinema 4D. Diese Clayrenderings von Detailansichten dieser mittelalterlichen Welt, ermöglichten bereits früh Eindrücke einer finalen Anwendung zu gewinnen.
+
+Bild
+Der Aufbau einer komplexen Umgebung lässt es zu, mit verschiedenen Kamera-Blickwinkeln auf unterschiedliche Szenerien und Details des Fastnachtstreibens aufmerksam zu machen.
+Bild
+Für die Komposition der Szenerie dienten zu Beginn des Projektes hilfreiche Blockouts. Hier konnte gut …
+
+### Texturierung der 3D Modelle
+
+Bild
+Die für die Texturierung notwendige UV-Abwicklung wurde in RizomUV erledigt. 
+Über die sehr praktische Bridge können die Modelle zwischen C4D und RizomUV schnell ausgetauscht werden.
+
+Bild
+Die Materialien der Modelle wurden anschließend in Adobe Substance Painter erstellt.
+
+
+Bild
+
+Bild
+Da die Objekte sehr oft mehrere Textursets besaßen, wäre ein manuelles zusammenführen
+der im Substance Painter erstellten Materialien in der Unreal Engine sehr zeitaufwendig und unübersichtlich geworden. 
+
+
+Bild
+Das Plugin Stack N Pack im Substance Painter ermöglichte es mehrere
+Texturesets zusammenzuführen, ohne das Programm verlassen zu müssen.
+
+
+Bild
+Mixamo
+
+
+Bild
+Die Erstellung der Charaktere im Character Creator 3. Die Kleidung stammt aus dem Reallusion Store: [Medieval Peasant - Mittelalter Kleidung](https://www.reallusion.com/ContentStore/Character-Creator/Pack/3D-Clothing-Medieval-Peasant/default.html "Medieval Peasant - Mittelalter Kleidung") 
+
+Die Charaktere wurden nach der Erstellung im Character Creator 3 in iClone 7 importiert. 
+Aus Adobe Mixamo stammende Animationen wurden den Charakteren hinzugefügt und als FBX mit sämtlichen Animationen exportiert. Diese können über die Unreal Engine sehr leicht abgerufen werden. Besitzen die Charaktere dort das gleiche Skeleton (Rig), können die exportierten Animationen unabhängig vom verwendeten Charakter verwendet werden. 
+
+Medieval Peasant - Mittelalter Kleidung 
+
+
+### Unreal Engine 5
+Screenshots der wichstigsten Blueprints einfügen
 
 
 
-![Kirche](images/Kirche.jpg)
+FNM_Doku_Tischinszenierung_Sep-2021 Video hier einfügen
+Mainmenü Video hier einfügen
+
+
+
+### Installation und Benutzung
+
+Fehlt noch komplett
+
+
+
+
+## Wichtig wäre halt noch:
+nDisplay Erklärung - was damit gemeint war und weshalb es erst später realisiert werden kann. 
+- Kontaktdaten reinschreiben
+- Ein Link zur Unreal Engine Doku wäre gut.
+
+- Eventuell eine Erklärung oder ein externes Tutorial für den Export der Anwendung gut.
+- Bildnachweise für Bilder von Bosch und Brueghel 
+- Aktuelle Screenshots?
+- Menü?
+
+
+
+
+
