@@ -42,7 +42,7 @@ Die Anwendung läuft in Echtzeit und kann mittels zweier Touchscreens interaktiv
 ### Thematische Schwerpunkte
 (Thematischen Schwerpunkt und Verbindung zu Bosch und Brueghel, surrealistische Elemente anreißen.)
 
-(BILD)
+![Themen](images/Themen.jpg)
 Thematisch und stilistisch wird sich an der reichhaltigen Bilderwelt Pieter Brueghels des Älteren orientiert. Aber auch dessen geistiger Vorfahre Hieronymus Bosch beeinflusst diese Inszenierung stark.
 
 (BILD)
