@@ -77,8 +77,8 @@ zur Erstellung des Contents verwendet:
 
 ### Skizzen/Entwürfe
 
-Bild
-Bild
+![Skizzen,Entwuerfe_01](images/Skizzen,Entwuerfe_01.jpg)
+![Skizzen,Entwuerfe_02](images/Skizzen,Entwuerfe_02.jpg)
 Anhand erster Scribbels wurde grob die Themenauswahl festgelegt. Die grundlegenden Themen dieser Inszenierung sind das Schlemmen, die Wollust, der mittelalterliche Narr.
 
 
