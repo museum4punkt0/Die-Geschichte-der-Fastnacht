@@ -84,40 +84,40 @@ Anhand erster Scribbels wurde grob die Themenauswahl festgelegt. Die grundlegend
 
 ### 3D Content-Erstellung
 
-Sämtliche statische Modelle entstanden in Cinema 4D. Diese Clayrenderings von Detailansichten dieser mittelalterlichen Welt, ermöglichten bereits früh Eindrücke einer finalen Anwendung zu gewinnen.
+Sämtliche statischen Modelle entstanden in Cinema 4D. Diese Clayrenderings von Detailansichten dieser mittelalterlichen Welt, ermöglichten bereits früh Eindrücke einer finalen Anwendung zu gewinnen.
 
-Bild
+![Renderings_01](images/Renderings_01.jpg)
 Der Aufbau einer komplexen Umgebung lässt es zu, mit verschiedenen Kamera-Blickwinkeln auf unterschiedliche Szenerien und Details des Fastnachtstreibens aufmerksam zu machen.
-Bild
+![Renderings_02](images/Renderings_02.jpg)
 Für die Komposition der Szenerie dienten zu Beginn des Projektes hilfreiche Blockouts. Hier konnte gut …
 
 ### Texturierung der 3D Modelle
 
-Bild
+![RizomUV](images/RizomUV.JPG)
 Die für die Texturierung notwendige UV-Abwicklung wurde in RizomUV erledigt. 
 Über die sehr praktische Bridge können die Modelle zwischen C4D und RizomUV schnell ausgetauscht werden.
 
-Bild
+![Texturierung_SP](images/Texturierung_SP.JPG)
 Die Materialien der Modelle wurden anschließend in Adobe Substance Painter erstellt.
 
 
-Bild
+![Renderings_01](images/Renderings_01.jpg)
 
-Bild
+![Renderings_02](images/Renderings_02.jpg)
 Da die Objekte sehr oft mehrere Textursets besaßen, wäre ein manuelles zusammenführen
 der im Substance Painter erstellten Materialien in der Unreal Engine sehr zeitaufwendig und unübersichtlich geworden. 
 
 
-Bild
+![Stack_N_Pack](images/Stack_N_Pack.JPG)
 Das Plugin Stack N Pack im Substance Painter ermöglichte es mehrere
 Texturesets zusammenzuführen, ohne das Programm verlassen zu müssen.
 
 
-Bild
+![Mixamo](images/Mixamo.JPG)
 Mixamo
 
 
-Bild
+![CharacterCreator](images/CharacterCreator.JPG)
 Die Erstellung der Charaktere im Character Creator 3. Die Kleidung stammt aus dem Reallusion Store: [Medieval Peasant - Mittelalter Kleidung](https://www.reallusion.com/ContentStore/Character-Creator/Pack/3D-Clothing-Medieval-Peasant/default.html "Medieval Peasant - Mittelalter Kleidung") 
 
 Die Charaktere wurden nach der Erstellung im Character Creator 3 in iClone 7 importiert. 
