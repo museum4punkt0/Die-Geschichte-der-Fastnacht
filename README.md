@@ -165,7 +165,7 @@ Start der Anwendung aus der Unreal Engine 5 heraus
 In der Unreal Engine werden beim ersten Start des Projektes alle Shader geladen. Dieser Vorgang kann zeitintensiv sein und hängt stark von den verwendeten Hardwarekomponenten ab.
 Sind alle Shader geladen, kann man sich mit den Tasten WASD und der Maus oder einem Spielecontroller frei durch die Szene bewegen. 
 
-
+![Play_Button](images/Play_Button.JPG)
 
 Die Anwendung selbst wird über den grünen Play Button gestartet. Rechts daneben kann man über ein Dropdown Menü unter anderem auswählen, ob die Anwendung im Editorfenster, als VR-Anwendung oder zum Beispiel als Standalone Game gestartet werden soll.
 Aus der Anwendung kommt man zum derzeitigen Stand über die Escape Taste.
@@ -174,14 +174,16 @@ Eine Anleitung, wie aus der Unreal Engine heraus eine lauffähige Standalone-Anw
 https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
 
 
+### Kontakt
 
+Ansprechpartner: Daniel Böhme
+E-Mail: daniel.boehme.motiondesign@gmx.de
 
 ## Wichtig wäre halt noch:
 nDisplay Erklärung - was damit gemeint war und weshalb es erst später realisiert werden kann. 
-- Kontaktdaten reinschreiben
+
 - Ein Link zur Unreal Engine Doku wäre gut.
 
-- Eventuell eine Erklärung oder ein externes Tutorial für den Export der Anwendung gut.
 - Bildnachweise für Bilder von Bosch und Brueghel 
 - Aktuelle Screenshots?
 - Menü?
