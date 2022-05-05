@@ -176,8 +176,8 @@ https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
 
 ### Kontakt
 
-Ansprechpartner: Daniel Böhme
-E-Mail: daniel.boehme.motiondesign@gmx.de
+- Ansprechpartner: Daniel Böhme
+- E-Mail: daniel.boehme.motiondesign@gmx.de
 
 ## Wichtig wäre halt noch:
 nDisplay Erklärung - was damit gemeint war und weshalb es erst später realisiert werden kann. 
