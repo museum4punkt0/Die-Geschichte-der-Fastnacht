@@ -123,22 +123,55 @@ Die Erstellung der Charaktere im Character Creator 3. Die Kleidung stammt aus de
 Die Charaktere wurden nach der Erstellung im Character Creator 3 in iClone 7 importiert. 
 Aus Adobe Mixamo stammende Animationen wurden den Charakteren hinzugefügt und als FBX mit sämtlichen Animationen exportiert. Diese können über die Unreal Engine sehr leicht abgerufen werden. Besitzen die Charaktere dort das gleiche Skeleton (Rig), können die exportierten Animationen unabhängig vom verwendeten Charakter verwendet werden. 
 
-Medieval Peasant - Mittelalter Kleidung 
 
 
 ### Unreal Engine 5
-Screenshots der wichstigsten Blueprints einfügen
+#### Installation
+
+Hier wird die Installation der Unreal Engine 5 unter Windows 10 64Bit beschrieben. Unter macOS und Linux sollte die Prozedur identisch sein.
+
+- Systemvorraussetzungen für Windows, macOS, Linux:
+https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/
 
 
 
-FNM_Doku_Tischinszenierung_Sep-2021 Video hier einfügen
-Mainmenü Video hier einfügen
+- Um die Unreal Engine 5 zu installieren, muss zuvor der Epic Games Launcher (https://store.epicgames.com/de/download) heruntergeladen werden. Im Launcher kann man sich über diverse Plattform-Accounts wie Google, Facebook, ect anmelden. Es empfiehlt sich hier allerdings ein Epic-Konto zu erstellen, da man darüber innerhalb der Unreal Engine kostenfrei den kompletten Zugang zu Quixel Megascans erhält.
+- 
+Links im Launcher wird der Reiter Unreal Engine ausgewählt. Über die Reiter oben kommt man zur Bibliothek. Dort lässt sich die aktuelle Version unter ENGINE-VERSIONEN über das Pluszeichen installieren. Es lassen sich sämtliche bisher veröffentlichte Versionen ab Version 4.02 parallel installieren. Der vorgegebene Pfad installiert die Engine auf dem Laufwerk C. Hier sollte ausreichend Speicherplatz zur Verfügung stehen. 500GB sind hier nicht zu viel geschätzt, gerade wenn man häufiger die Engine nutzt. Für den Anfang benötigt man etwa 40GB für die Engine und 20 GB für die Anwendung.
+Laden des Projektes
+
+- Das Projekt kann unter diesem Google Drive Link (.....) heruntergeladen werden.
+Dieser Link wird in den kommenden Monaten durch einen Link zur Anwendung auf dem Server des Fastnachtsmuseum Schloss Langenstein ersetzt.
+
+- Die heruntergeladenen Dateien können in den Pfad “C:\Users\metul\Documents\Unreal Projects”
+verschoben werden. 
+
+- Ist die Unreal Engine installiert, wird sie entweder direkt im Launcher gestartet oder über einen Verknüpfung, die auf dem Desktop automatisch erstellt wurde.
 
 
 
-### Installation und Benutzung
 
-Fehlt noch komplett
+
+
+#### Start der Anwendung/Benutzung
+
+Nach dem Start der Unreal Engine öffnet sich der Unreal Project Browser.
+Über den Button “Browse…” lässt sich das Projekt laden. 
+Über das Projektverzeichnis kann auch direkt die Datei “FNM_Tisch_01.uproject” gestartet werden.
+
+
+
+Start der Anwendung aus der Unreal Engine 5 heraus
+In der Unreal Engine werden beim ersten Start des Projektes alle Shader geladen. Dieser Vorgang kann zeitintensiv sein und hängt stark von den verwendeten Hardwarekomponenten ab.
+Sind alle Shader geladen, kann man sich mit den Tasten WASD und der Maus oder einem Spielecontroller frei durch die Szene bewegen. 
+
+
+
+Die Anwendung selbst wird über den grünen Play Button gestartet. Rechts daneben kann man über ein Dropdown Menü unter anderem auswählen, ob die Anwendung im Editorfenster, als VR-Anwendung oder zum Beispiel als Standalone Game gestartet werden soll.
+Aus der Anwendung kommt man zum derzeitigen Stand über die Escape Taste.
+
+Eine Anleitung, wie aus der Unreal Engine heraus eine lauffähige Standalone-Anwendung erstellt werden kann, die auch auf anderen System funktioniert, findet sich hier:
+https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
 
 
 
