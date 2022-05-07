@@ -174,6 +174,10 @@ Eine Anleitung, wie aus der Unreal Engine heraus eine lauffähige Standalone-Anw
 https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
 
 
+### Blueprints
+
+Ein Beispiel für den Aufbau eines Blueprints zur interaktiven Steuerung von Objekten.
+
 ### Kontakt
 
 - Ansprechpartner: Daniel Böhme
