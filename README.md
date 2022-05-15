@@ -183,6 +183,9 @@ Ein Beispiel für den Aufbau eines Blueprints zur interaktiven Steuerung von Obj
 nDisplay ermöglicht die Darstellung einer Anwendung über mehrer Displays. 
 Es handelt sich dabei um ein Feature, auf welches während der Entwicklung verzichtet werden musste, da dieses in der für das Projekt verwendeten Early Accsess Version der Unreal Engine 5 noch nicht zufriedenstellend integriert war. Da sich dies mit der finalen Version 5.0 geändert hat, ist es nun möglich diese Funktionalität in die Anwendung zu übertragen. Durch nDisplay werden zwei Instanzen der Anwendung auf zwei oder mehr Displays gleichzeitig gestartet. Bezogen auf unser Projekt bedeutet das, dass Aktionen, welche auf Display A ausgeführt werden, Auswirkungen auf die Umgebung auf in Display B haben können, da man sich nach wie vor in der gleichen Anwendung befindet. 
 [nDisplay Dokumentation](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/)
+Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung: 
+[nDisplay Quickstart](https://docs.unrealengine.com/5.0/en-US/ndisplay-quick-start-for-unreal-engine/)
+
 
 
 
@@ -196,7 +199,8 @@ Es handelt sich dabei um ein Feature, auf welches während der Entwicklung verzi
 - E-Mail: mail@christianbecker.de
 
 ## Wichtig wäre halt noch:
-
+- Links noch kürzen
+- Rechtschreibung kontrollieren
 - Logos
 
 - Ein Link zur Unreal Engine Doku wäre gut.
