@@ -22,7 +22,12 @@ Die interaktive Multiscreen-Tischsimulation wurde für eine Ausstellungsinsel im
 Diese Multiscreen-Anwendung ist entstanden im Verbundprojekt museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt “Kulturgut Fastnacht digital”. Weitere Informationen: [www.museum4punkt0.de](https://www.museum4punkt0.de "www.museum4punkt0.de")
 
 Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.
-![Neustart](images/Neustart.jpg)
+
+![BKM](images/BKM.gif)
+
+![Neustart](images/neustart.jpg)
+
+
 
 
 ### Zielsetzung/Konzept
