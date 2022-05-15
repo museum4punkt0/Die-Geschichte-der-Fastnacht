@@ -59,27 +59,29 @@ Objekte und Figuren aus deren Werken finden sich an vielen Stellen der Anwendung
 
 
 Die Anwendung wurde in der Unreal Engine 5 entwickelt.
-Diese Engine ist frei verfügbar und hier erhältlich: [www.unrealengine.com](www.unrealengine.com "www.unrealengine.com")
+Diese Engine ist frei verfügbar und hier erhältlich: 
+[www.unrealengine.com](www.unrealengine.com "www.unrealengine.com")
 
 Einige Assets wie zb Felsen oder Bodentexturen stammten aus Megascans. 
-Die gesamte Megascans Bibliothek ist kostenlos für Nutzer der Unreal Engine nutzbar. [Quixel Megascans](https://quixel.com/megascans/home/ "Quixel Megascans")
+Die gesamte Megascans Bibliothek ist kostenlos für Nutzer der Unreal Engine nutzbar. 
+[Quixel Megascans](https://quixel.com/megascans/home/ "Quixel Megascans")
 
 Hilfreiche Internetforen während der Realisierung: 
-[Unrealengine.de](https://unrealengine.de/ "Unrealengine.de")
-[Der Sky - Discord](https://discord.com/invite/YthMfZz "Der Sky - Discord")
+- [Unrealengine.de](https://unrealengine.de/ "Unrealengine.de")
+- [Der Sky - Discord](https://discord.com/invite/YthMfZz "Der Sky - Discord")
 
-##### Verwendete Programme/Plugins
+#### Verwendete Programme/Plugins
 
 Neben der Unreal Engine 5 als Zielanwendung wurden folgende Programme/Plugins
 zur Erstellung des Contents verwendet:
 
-[Cinema 4D](https://www.maxon.net/de/ "Cinema 4D")
-[Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html "Substance Painter")
-[RizomUV](https://www.rizom-lab.com "RizomUV")
-[ZBrush](https://pixologic.com/ "ZBrush")
-[Stack N Pack](https://phillipjenne.gumroad.com/l/StackNPack "Stack N Pack")
-[Character Creator 3](https://www.reallusion.com/de/character-creator/?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWPX4kH7VNDhAMx83y3D23cRHeMSk9rVOC55vVSV3JCe_956vhRGwLRoCqQgQAvD_BwE "Character Creator 3")
-[Mixamo](https://www.mixamo.com/#/ "Mixamo")
+- [Cinema 4D](https://www.maxon.net/de/ "Cinema 4D")
+- [Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html "Substance Painter")
+- [RizomUV](https://www.rizom-lab.com "RizomUV")
+- [ZBrush](https://pixologic.com/ "ZBrush")
+- [Stack N Pack](https://phillipjenne.gumroad.com/l/StackNPack "Stack N Pack")
+- [Character Creator 3](https://www.reallusion.com/de/character-creator/?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWPX4kH7VNDhAMx83y3D23cRHeMSk9rVOC55vVSV3JCe_956vhRGwLRoCqQgQAvD_BwE "Character Creator 3")
+- [Mixamo](https://www.mixamo.com/#/ "Mixamo")
 
 ### Skizzen/Entwürfe
 
@@ -203,6 +205,12 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 - E-Mail: daniel.boehme.motiondesign@gmx.de
 - Ansprechpartner Hardwaretechnik: Christian Becker
 - E-Mail: mail@christianbecker.de
+
+
+### Lizenz
+
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](https://github.com/museum4punkt0/Leipzig-89-Revolution-reloaded/blob/main/Game%20Application/LICENSE) 
+
 
 ## Wichtig wäre halt noch:
 - Links noch kürzen
