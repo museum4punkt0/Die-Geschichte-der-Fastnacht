@@ -170,7 +170,8 @@ Die Anwendung selbst wird über den grünen Play Button gestartet. Rechts danebe
 Aus der Anwendung kommt man zum derzeitigen Stand über die Escape Taste.
 
 Eine Anleitung, wie aus der Unreal Engine heraus eine lauffähige Standalone-Anwendung erstellt werden kann, die auch auf anderen System funktioniert, findet sich hier:
-https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
+[Packaging Dokumentation](https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/)
+
 
 
 ### Blueprints
