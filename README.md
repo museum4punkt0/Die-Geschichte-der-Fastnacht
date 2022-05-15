@@ -155,13 +155,12 @@ verschoben werden.
 
 #### Start der Anwendung/Benutzung
 
+
 Nach dem Start der Unreal Engine öffnet sich der Unreal Project Browser.
 Über den Button “Browse…” lässt sich das Projekt laden. 
 Über das Projektverzeichnis kann auch direkt die Datei “FNM_Tisch_01.uproject” gestartet werden.
 
-
-
-Start der Anwendung aus der Unreal Engine 5 heraus
+- Start der Anwendung aus der Unreal Engine 5 heraus
 In der Unreal Engine werden beim ersten Start des Projektes alle Shader geladen. Dieser Vorgang kann zeitintensiv sein und hängt stark von den verwendeten Hardwarekomponenten ab.
 Sind alle Shader geladen, kann man sich mit den Tasten WASD und der Maus oder einem Spielecontroller frei durch die Szene bewegen. 
 
@@ -178,13 +177,26 @@ https://docs.unrealengine.com/4.27/en-US/Basics/Projects/Packaging/
 
 Ein Beispiel für den Aufbau eines Blueprints zur interaktiven Steuerung von Objekten.
 
+### nDisplay
+
+nDisplay ermöglicht die Darstellung einer Anwendung über mehrer Displays. 
+Es handelt sich dabei um ein Feature, auf welches während der Entwicklung verzichtet werden musste, da dieses in der für das Projekt verwendeten Early Accsess Version der Unreal Engine 5 noch nicht zufriedenstellend integriert war. Da sich dies mit der finalen Version 5.0 geändert hat, ist es nun möglich diese Funktionalität in die Anwendung zu übertragen. Durch nDisplay werden zwei Instanzen der Anwendung auf zwei oder mehr Displays gleichzeitig gestartet. Bezogen auf unser Projekt bedeutet das, dass Aktionen, welche auf Display A ausgeführt werden, Auswirkungen auf die Umgebung auf in Display B haben können, da man sich nach wie vor in der gleichen Anwendung befindet. 
+[nDisplay Dokumentation][nDisplay]
+[nDisplay]: https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/
+
+
 ### Kontakt
 
-- Ansprechpartner: Daniel Böhme
+- Anspechpartner Projektsteuerung: 
+- E-Mail: 
+- Ansprechpartner Anwendung: Daniel Böhme 
 - E-Mail: daniel.boehme.motiondesign@gmx.de
+- Ansprechpartner Hardwaretechnik: Christian Becker
+- E-Mail: mail@christianbecker.de
 
 ## Wichtig wäre halt noch:
-nDisplay Erklärung - was damit gemeint war und weshalb es erst später realisiert werden kann. 
+
+- Logos
 
 - Ein Link zur Unreal Engine Doku wäre gut.
 
