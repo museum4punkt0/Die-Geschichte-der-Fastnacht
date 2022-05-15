@@ -1,6 +1,8 @@
 ### Die Geschichte der Fastnacht 
 ##### Eine interaktive Multiscreen-Tischsimulation 
 
+![Titelbild](images/Titelbild.png)
+
 - Projektbeschreibung
 - Zielsetzung
 - Thematische Schwerpunkte
