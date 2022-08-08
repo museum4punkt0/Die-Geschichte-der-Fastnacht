@@ -212,7 +212,7 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 
 ### Lizenz
 
-Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](https://github.com/museum4punkt0/Leipzig-89-Revolution-reloaded/blob/main/Game%20Application/LICENSE) 
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](https://github.com/museum4punkt0/Die-Geschichte-der-Fastnacht/blob/68d0cf95f8bd61cb5c72ea27e19bc2c9450e0807/LICENSE) 
 
 
 ## Wichtig wäre halt noch:
