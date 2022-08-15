@@ -12,7 +12,7 @@
 * [Skizzen-Entwürfe](#Skizzen-Entwürfe)
 * [3D-Contenterstellung](#3D-Contenterstellung)
 * [Texturierung](#Texturierung)
-* [Installation & Benutzung](#Installation & Benutzung)
+* [Installation-Benutzung](#Installation-Benutzung)
 * [Credits](#Credits) 
 * [Lizenz](#Lizenz)
 
@@ -139,7 +139,7 @@ Aus Adobe Mixamo stammende Animationen wurden den Charakteren hinzugefügt und a
 
 
 ### Unreal Engine 5
-#### Installation & Benutzung
+#### Installation-Benutzung
 
 Hier wird die Installation der Unreal Engine 5 unter Windows 10 64Bit beschrieben. Unter macOS und Linux sollte die Prozedur identisch sein.
 
