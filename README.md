@@ -208,10 +208,10 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 - #### Anspechpartner Projektsteuerung: Michael Fuchs
 - Webseite: https://www.fasnachtsmuseum.de/
 - E-Mail: praesident@fasnachtsmuseum.de
-- Ansprechpartner Anwendung: Daniel Böhme 
+- #### Ansprechpartner Anwendung: Daniel Böhme 
 - Webseite: https://superpolygon.de
 - E-Mail: daniel.boehme.motiondesign@gmx.de
-- Ansprechpartner Hardwaretechnik: Christian Becker
+- #### Ansprechpartner Hardwaretechnik: Christian Becker
 - Webseite: https://www.christianbecker.de/
 - E-Mail: mail@christianbecker.de
 
