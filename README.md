@@ -23,7 +23,7 @@
 Die interaktive Multiscreen-Tischsimulation wurde für eine Ausstellungsinsel im Fastnachtsmuseum Schloss Langenstein realisiert. Diese Anwendung lässt den Nutzer über eine räumliche Topdown-Ansicht auf die eine mittelalterliche Stadt während der Fastnacht schauen. Die Anwendung ist für die spätere Verwendung im Museum vorgesehen, kann allerdings auch außerhalb des Museums getestet werden. Die Projektdateien und die eigentliche Anwendung werden frei verfügbar sein.
 
 
-### Förderhinwei
+### Förderhinweis
 
 Diese Multiscreen-Anwendung ist entstanden im Verbundprojekt museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt “Kulturgut Fastnacht digital”. Weitere Informationen: [www.museum4punkt0.de](https://www.museum4punkt0.de "www.museum4punkt0.de")
 
