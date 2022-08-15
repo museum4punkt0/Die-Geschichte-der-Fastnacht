@@ -6,14 +6,14 @@
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis)
 * [Zielsetzung-Konzept](#Zielsetzung-Konzept)
-- Thematische Schwerpunkte
-- Projektentwicklung
-- Verwendete Programme/Plugins
-- Skizzen/Entwürfe
-- 3D Content-Erstellung
-- Texturierung
-- Contenterstellung
-- Installation und Benutzung
+* [Thematische Schwerpunkte](#Thematische Schwerpunkte)
+* [Projektentwicklung](#Projektentwicklung)
+* [Verwendete Programme & Plugins](#Verwendete Programme & Plugins)
+* [Skizzen-Entwürfe](#Skizzen-Entwürfe)
+* [3D Content-Erstellung](#3D Content-Erstellung)
+* [Texturierung](#Texturierung)
+* [Contenterstellung](#Contenterstellung)
+* [Installation & Benutzung](#Installation & Benutzung)
 * [Credits](#Credits) 
 * [Lizenz](#Lizenz)
 
@@ -76,7 +76,7 @@ Hilfreiche Internetforen während der Realisierung:
 - [Unrealengine.de](https://unrealengine.de/ "Unrealengine.de")
 - [Der Sky - Discord](https://discord.com/invite/YthMfZz "Der Sky - Discord")
 
-#### Verwendete Programme/Plugins
+#### Verwendete Programme & Plugins
 
 Neben der Unreal Engine 5 als Zielanwendung wurden folgende Programme/Plugins
 zur Erstellung des Contents verwendet:
@@ -89,7 +89,7 @@ zur Erstellung des Contents verwendet:
 - [Character Creator 3](https://www.reallusion.com/de/character-creator/?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWPX4kH7VNDhAMx83y3D23cRHeMSk9rVOC55vVSV3JCe_956vhRGwLRoCqQgQAvD_BwE "Character Creator 3")
 - [Mixamo](https://www.mixamo.com/#/ "Mixamo")
 
-### Skizzen/Entwürfe
+### Skizzen-Entwürfe
 
 ![Skizzen,Entwuerfe_01](images/Skizzen,Entwuerfe_01.jpg)
 ![Skizzen,Entwuerfe_02](images/Skizzen,Entwuerfe_02.jpg)
@@ -167,7 +167,7 @@ verschoben werden.
 
 
 
-#### Start der Anwendung/Benutzung
+#### Start der Anwendung-Benutzung
 
 Download der Anwendung: https://drive.google.com/drive/folders/1gn_UQMRE60eyXV0dpV1i8ArUPPaRBL4m?usp=sharing
 
@@ -206,8 +206,8 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 
 ### Kontakt
 
-- Anspechpartner Projektsteuerung: 
-- E-Mail: 
+- Anspechpartner Projektsteuerung: Michael Fuchs
+- E-Mail: praesident@fasnachtsmuseum.de
 - Ansprechpartner Anwendung: Daniel Böhme 
 - E-Mail: daniel.boehme.motiondesign@gmx.de
 - Ansprechpartner Hardwaretechnik: Christian Becker
@@ -219,16 +219,6 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](https://github.com/museum4punkt0/Die-Geschichte-der-Fastnacht/blob/68d0cf95f8bd61cb5c72ea27e19bc2c9450e0807/LICENSE) 
 
 
-## Wichtig wäre halt noch:
-- Links noch kürzen
-- Rechtschreibung kontrollieren
-- Logos
-
-- Ein Link zur Unreal Engine Doku wäre gut.
-
-- Bildnachweise für Bilder von Bosch und Brueghel 
-- Aktuelle Screenshots?
-- Menü?
 
 
 
