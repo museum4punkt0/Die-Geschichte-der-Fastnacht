@@ -75,7 +75,7 @@ Hilfreiche Internetforen während der Realisierung:
 - [Unrealengine.de](https://unrealengine.de/ "Unrealengine.de")
 - [Der Sky - Discord](https://discord.com/invite/YthMfZz "Der Sky - Discord")
 
-#### Programme & Plugins
+### Programme & Plugins
 
 Neben der Unreal Engine 5 als Zielanwendung wurden folgende Programme/Plugins
 zur Erstellung des Contents verwendet:
