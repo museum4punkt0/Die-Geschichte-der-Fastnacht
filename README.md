@@ -205,7 +205,7 @@ Für den schnellen Praxis-Einstieg empfielt sich diese Quickstart-Anleitung:
 
 ### Credits
 
-- Anspechpartner Projektsteuerung: Michael Fuchs
+- #### Anspechpartner Projektsteuerung: Michael Fuchs
 - Webseite: https://www.fasnachtsmuseum.de/
 - E-Mail: praesident@fasnachtsmuseum.de
 - Ansprechpartner Anwendung: Daniel Böhme 
