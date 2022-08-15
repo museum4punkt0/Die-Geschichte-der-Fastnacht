@@ -5,7 +5,7 @@
 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis)
-* [Zielsetzung/Konzept](#Zielsetzung/Konzept)
+* [Zielsetzung-Konzept](#Zielsetzung-Konzept)
 - Thematische Schwerpunkte
 - Projektentwicklung
 - Verwendete Programme/Plugins
@@ -36,7 +36,7 @@ Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregier
 
 
 
-### Zielsetzung/Konzept
+### Zielsetzung-Konzept
 
 Mit Modul 5 setzt das Fasnachtsmuseum Schloss Langenstein mit einer Interaktiven, multi-User-fähigen Tisch-Inszenierung auf ein starkes Storytelling im Bereich Geschichtsvermittlung durch 3D-Animationen.
 
