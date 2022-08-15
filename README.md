@@ -5,7 +5,7 @@
 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis)
-- Zielsetzung/Konzept
+* [Zielsetzung/Konzept](#Zielsetzung/Konzept)
 - Thematische Schwerpunkte
 - Projektentwicklung
 - Verwendete Programme/Plugins
