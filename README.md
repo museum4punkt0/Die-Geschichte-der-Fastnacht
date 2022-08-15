@@ -3,8 +3,9 @@
 
 ![Titelbild](images/Titelbild.png)
 
-- Projektbeschreibung
-- Zielsetzung
+* [Kurzbeschreibung](#Kurzbeschreibung) 
+* [Förderhinweis](#Förderhinweis)
+- Zielsetzung/Konzept
 - Thematische Schwerpunkte
 - Projektentwicklung
 - Verwendete Programme/Plugins
@@ -13,6 +14,9 @@
 - Texturierung
 - Contenterstellung
 - Installation und Benutzung
+* [Credits](#Credits) 
+* [Lizenz](#Lizenz)
+
 
 ### Kurzbeschreibung 
 
