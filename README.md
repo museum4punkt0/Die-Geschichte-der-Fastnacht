@@ -11,7 +11,7 @@
 * [Verwendete Programme & Plugins](#Verwendete Programme & Plugins)
 * [Skizzen-Entwürfe](#Skizzen-Entwürfe)
 * [3D Content-Erstellung](#3D Content-Erstellung)
-* [Texturierung](#Texturierung)
+* [Texturierung der 3D Modelle](#Texturierung der 3D Modelle)
 * [Contenterstellung](#Contenterstellung)
 * [Installation & Benutzung](#Installation & Benutzung)
 * [Credits](#Credits) 
