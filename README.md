@@ -6,7 +6,7 @@
 * [Kurzbeschreibung](#Kurzbeschreibung) 
 * [Förderhinweis](#Förderhinweis)
 * [Zielsetzung-Konzept](#Zielsetzung-Konzept)
-* [Thematische Schwerpunkte](#Thematische Schwerpunkte)
+* [Themenschwerpunkte](#Themenschwerpunkte)
 * [Projektentwicklung](#Projektentwicklung)
 * [Verwendete Programme & Plugins](#Verwendete Programme & Plugins)
 * [Skizzen-Entwürfe](#Skizzen-Entwürfe)
@@ -50,7 +50,7 @@ Die Besucher haben die Möglichkeit von zwei Seiten aus die Szene zu entdecken.
 Die Anwendung läuft in Echtzeit und kann mittels zweier Touchscreens interaktiv beeinflusst werden.
 
 
-### Thematische Schwerpunkte
+### Themenschwerpunkte
 (Thematischen Schwerpunkt und Verbindung zu Bosch und Brueghel, surrealistische Elemente anreißen.)
 
 ![Themen](images/Themen.jpg)
