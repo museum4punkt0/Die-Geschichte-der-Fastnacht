@@ -12,7 +12,7 @@
 * [Skizzen-Entwürfe](#Skizzen-Entwürfe)
 * [3D Content-Erstellung](#3D Content-Erstellung)
 * [Texturierung](#Texturierung)
-* [Contenterstellung](#Contenterstellung)
+* [3D-Contenterstellung](#3D-Contenterstellung)
 * [Installation & Benutzung](#Installation & Benutzung)
 * [Credits](#Credits) 
 * [Lizenz](#Lizenz)
@@ -96,7 +96,7 @@ zur Erstellung des Contents verwendet:
 Anhand erster Scribbels wurde grob die Themenauswahl festgelegt. Die grundlegenden Themen dieser Inszenierung sind das Schlemmen, die Wollust, der mittelalterliche Narr.
 
 
-### 3D Content-Erstellung
+### 3D-Contenterstellung
 
 Sämtliche statischen Modelle entstanden in Cinema 4D. Diese Clayrenderings von Detailansichten dieser mittelalterlichen Welt, ermöglichten bereits früh Eindrücke einer finalen Anwendung zu gewinnen.
 
@@ -140,7 +140,7 @@ Aus Adobe Mixamo stammende Animationen wurden den Charakteren hinzugefügt und a
 
 
 ### Unreal Engine 5
-#### Installation
+#### Installation & Benutzung
 
 Hier wird die Installation der Unreal Engine 5 unter Windows 10 64Bit beschrieben. Unter macOS und Linux sollte die Prozedur identisch sein.
 
