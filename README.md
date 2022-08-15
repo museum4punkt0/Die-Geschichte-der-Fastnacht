@@ -11,7 +11,7 @@
 * [Verwendete Programme & Plugins](#Verwendete Programme & Plugins)
 * [Skizzen-Entwürfe](#Skizzen-Entwürfe)
 * [3D Content-Erstellung](#3D Content-Erstellung)
-* [Texturierung der 3D Modelle](#Texturierung der 3D Modelle)
+* [Texturierung](#Texturierung)
 * [Contenterstellung](#Contenterstellung)
 * [Installation & Benutzung](#Installation & Benutzung)
 * [Credits](#Credits) 
@@ -105,7 +105,7 @@ Der Aufbau einer komplexen Umgebung lässt es zu, mit verschiedenen Kamera-Blick
 ![Renderings_02](images/Renderings_02.jpg)
 Für die Komposition der Szenerie dienten zu Beginn des Projektes hilfreiche Blockouts. Hier konnte gut …
 
-### Texturierung der 3D Modelle
+### Texturierung
 
 ![RizomUV](images/RizomUV.JPG)
 Die für die Texturierung notwendige UV-Abwicklung wurde in RizomUV erledigt. 
