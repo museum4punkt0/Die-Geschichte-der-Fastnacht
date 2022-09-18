@@ -37,7 +37,7 @@ Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregier
 
 ### Zielsetzung-Konzept
 
-Mit Modul 5 setzt das Fasnachtsmuseum Schloss Langenstein mit einer Interaktiven, multi-User-fähigen Tisch-Inszenierung auf ein starkes Storytelling im Bereich Geschichtsvermittlung durch 3D-Animationen.
+Mit Modul 5 setzt das Fasnachtsmuseum Schloss Langenstein mit einer interaktiven, multi-user-fähigen Tisch-Inszenierung auf ein starkes Storytelling im Bereich Geschichtsvermittlung durch 3D-Animationen.
 
 Ziel ist es, den Ursprung und die historische Entwicklung der Fasnachtsbräuche interaktiv erlebbar zu machen. Auf einem Tisch wird durch Animationen, Licht und Sound ein Festgelage zum Leben erweckt, das die Basis einer Erzählung bildet und den historischen Zusammenhang zwischen Fasnachts- und Fastenzeit vermittelt. Dabei kann die Geschichte von Besucher*innen über eine Multittouchanwendung beeinflusst werden. Das detailgetreue, lebendige Geschehen auf dem Tisch soll Besucher*innen einen niederschwelligen Zugang zur Informationsebene ermöglichen. Lerninhalte sollen abwechslungsreich und emotional gestaltet werden, um dadurch die Vermittlung intensiver erlebbar zu machen. Vorrangig ist die Tisch-Inszenierung an eine digital interessierte und primär nicht museumsaffine Zielgruppe gerichtet.
 
